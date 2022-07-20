@@ -1,0 +1,15 @@
+{
+  "name": "pixi-tutorial",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "assets": "^3.0.1",
+    "gsap": "^3.10.4",
+    "pixi.js": "^5.3.3"
+  },
+  "devDependencies": {
+    "parcel": "^2.6.2",
+    "querystring-es3": "^0.2.1"
+  }
+}
